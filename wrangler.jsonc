@@ -14,7 +14,7 @@
   "hyperdrive": [
     {
       "binding": "HYPERDRIVE",
-      "localConnectionString": "postgresql://postgres:postgres@localhost:5432/postgres",
+      "localConnectionString": "postgresql://postgres:cloudflare-agents@db.nthrvvkxrxhcddkghziu.supabase.co:5432/postgres",
       "id": "c8a1bd35d85f4dfeab75462ea1146657",
     },
   ],
